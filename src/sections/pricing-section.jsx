@@ -3,9 +3,9 @@ import clsx from "clsx";
 import CountUp from "react-countup";
 import { Element } from "react-scroll";
 
-import { plans } from "../constants/index.jsx";
+import { plans } from "../constants/index";
 
-import Button from "../components/button.jsx";
+import Button from "../components/button";
 
 const Pricing = () => {
   const [monthly, setMonthly] = useState(true);
