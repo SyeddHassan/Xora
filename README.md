@@ -1,6 +1,6 @@
 # Xora: Modern SaaS Landing Page
 
-![Xora - Landing Page]()
+![Xora - Landing Page](https://media.licdn.com/dms/image/v2/D4E22AQHOrKZzdGrKxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559136770?e=1730332800&v=beta&t=8sLXY6nZHEOHuTw7kXugyfcPqSPeVs9WJidHtYYJ05I)
 
 ## Introduction
 
@@ -16,18 +16,20 @@
 
 ### Figma Design
 
-![Xora Figma Desing Screenshot]()
+![Xora Figma Desing Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQGytrdWL03dfg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559136647?e=1730332800&v=beta&t=qRIfVOw5kX5lLp1QJpln7AgpG48-mXxZWC7EXlvgoTk)
 
 ### Figma Design Conversion
 
-![Xora Landing Page Screenshot]()
-![Xora Section Screenshot]()
-![Xora Section Screenshot]()
+![Xora Landing Page Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQHOrKZzdGrKxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559136770?e=1730332800&v=beta&t=8sLXY6nZHEOHuTw7kXugyfcPqSPeVs9WJidHtYYJ05I)
+![Xora Pricing Section Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQEK30wLzo7yeA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559135718?e=1730332800&v=beta&t=9sn-FE9KsL5G2V_8Wy_5NGWtoNnks0tMouQVpswA2W8)
+![Xora Faq Section Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQHflAaLp5C7cg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559135732?e=1730332800&v=beta&t=NAs6ubcAeYntmcqGlQ-phGcw9POtQftPzw1T-sIz8cM)
+![Xora Download Section Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQFrchs-FX_ttg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559135551?e=1730332800&v=beta&t=-WSRF5k0li6pzcS_KY8SiBGwj4X7tkk379k2W2a08ww)
 
 ### Responsive Design
 
-![Xora Responsive Design Screenshot1]()
-![Xora Responsive Design Screenshot2]()
+![Xora Responsive Design Screenshot1](https://media.licdn.com/dms/image/v2/D4E22AQHxCTI2FDgmRw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559136912?e=1730332800&v=beta&t=1HYovA9mkWfOW8xVukoqbd1rR4lLNOwsBHPOUn4IcNo)
+![Xora Responsive Design Screenshot2](https://media.licdn.com/dms/image/v2/D4E22AQH9HtZriW5SCg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559135876?e=1730332800&v=beta&t=JUQ9hFeLOQ9DPG0biNhLmoOWGgLp9ZVQMD8Ihm-WpLQ)
+![Xora Responsive Design Screenshot3](https://media.licdn.com/dms/image/v2/D4E22AQGwgwD0dN6pVw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727559135644?e=1730332800&v=beta&t=oaYfA52IkD8kqcGTYsMrs_VF1Y7tveJN36pcjkAOnZY)
 
 ## Features
 
